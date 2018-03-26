@@ -1,10 +1,49 @@
+body {
+  text-align: center;
+}
+
 td.profile {
 -webkit-column-width: 40%; /* Chrome, Safari, Opera */
 -moz-column-width: 40%; /* Firefox */
 column-width: 40%;
-height: 99%;
+line-height: 600px;
 }
 
 td {
-  height: 33%;
+  height: 200px;
+}
+
+table {
+  width: 100%
+}
+
+th.name {
+  background-color: green;
+}
+
+td.profile {
+  background-color: orange;
+}
+
+td.experience {
+  background-color: blue;
+}
+
+td.education {
+  background-color: orange;
+}
+
+td.blog {
+  background-color: green;
+}
+
+td.social {
+  background-color: orange;
+}
+
+td.contact {
+  background-color: blue;
+}
+td.portfolio {
+  background-color: orange;
 }
