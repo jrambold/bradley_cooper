@@ -1,0 +1,10 @@
+td.profile {
+-webkit-column-width: 40%; /* Chrome, Safari, Opera */
+-moz-column-width: 40%; /* Firefox */
+column-width: 40%;
+height: 99%;
+}
+
+td {
+  height: 33%;
+}
